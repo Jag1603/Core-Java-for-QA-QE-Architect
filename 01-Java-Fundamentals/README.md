@@ -3,6 +3,22 @@
 ## Topic
 JDK/JRE/JVM, program structure, compilation and execution.
 
+## By using this block we can see what is JDK,JRE,JVM..
+
++-------------------------------------------------------------+
+
+| JDK (Java Development Kit)                                 |
+|   +-------------------------------------------------------+ |
+|   | JRE (Java Runtime Environment)                        | |
+|   |   +-------------------------------------------------+ | |
+|   |   | JVM (Java Virtual Machine)                      | | |
+|   |   |  - Executes bytecode                            | | |
+|   |   +-------------------------------------------------+ | |
+|   |   - Core Standard Libraries & Classes               | | |
+|   +-------------------------------------------------------+ |
+|   - Development Tools (javac, debugger, javadoc, etc.)    | |
++-------------------------------------------------------------+
+
 ## Files
 - `examples/JavaFundamentals.java` - runnable Java demonstration
 - `exercises/Exercise01.java` - practice starter
