@@ -17,3 +17,7 @@ Connect this concept to Selenium, TestNG/JUnit, API automation, JDBC, framework 
 3. Create a QA automation use case.
 4. Add negative/edge cases.
 5. Explain the design in an interview.
+
+## The Output as per exercises
+Hello QA Automation!
+Java version: 21.0.12.1
